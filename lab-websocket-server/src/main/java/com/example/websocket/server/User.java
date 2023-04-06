@@ -5,6 +5,6 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Message {
-	private String content;
+public class User {
+	private String userName;
 }
